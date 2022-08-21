@@ -1,0 +1,24 @@
+[
+    {
+        "pizza hut american favourite" : {
+            "isi" : "daging sapi cincang",
+            "toping" : "beef pepperoni"
+        },
+        "meat lovers" : [
+            "daging cincang",
+            "irisan sosis sapi",
+            "sosis ayam dan burger sapi"
+        ]
+    },
+    {
+        "pizza hut american favourite" : {
+            "isi" : "daging sapi cincang",
+            "toping" : "beef pepperoni"
+        },
+        "meat lovers" : [
+            "daging cincang",
+            "irisan sosis sapi",
+            "sosis ayam dan burger sapi"
+        ]
+    }
+]

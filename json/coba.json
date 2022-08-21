@@ -1,0 +1,30 @@
+[
+    {
+        "nama"  : "Yusuf Aryadilla",
+        "umur"  : 21,
+        "nim"   : "12182345",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing"    : {
+            "pembimbing1"   : "Dody Fer",
+            "pembimbing2"   : "Erict aja"
+        }
+    },
+    {
+        "nama"  : "Yusuf Aryadilla",
+        "umur"  : 21,
+        "nim"   : "12182345",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing"    : {
+            "pembimbing1"   : "Dody Fer",
+            "pembimbing2"   : "Erict aja"
+        }
+    }
+]
